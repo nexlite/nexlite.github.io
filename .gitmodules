@@ -1,0 +1,3 @@
+[submodule "nexlite.github.io"]
+	path = nexlite.github.io
+	url = https://github.com/nexlite/nexlite.github.io.git
